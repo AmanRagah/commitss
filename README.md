@@ -1,1 +1,1 @@
-# Zama Testnet Commit Log
+# Zama Testnet Participation
