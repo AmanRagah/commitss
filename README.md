@@ -2,3 +2,4 @@
 - Joined Zama Testnet Phase 3
 - Added node installation steps
 - Wrote fullnode run commands
+- Updated troubleshooting tips
