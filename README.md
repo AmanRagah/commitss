@@ -3,3 +3,4 @@
 - Added node installation steps
 - Wrote fullnode run commands
 - Updated troubleshooting tips
+- Linked Zama Discord
