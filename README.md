@@ -5,3 +5,4 @@
 - Updated troubleshooting tips
 - Linked Zama Discord
 - Explained FHE basics
+- Documented CLI output samples
