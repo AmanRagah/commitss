@@ -6,3 +6,4 @@
 - Linked Zama Discord
 - Explained FHE basics
 - Documented CLI output samples
+- Mentioned Gitpod alternative
