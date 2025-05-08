@@ -8,3 +8,4 @@
 - Documented CLI output samples
 - Mentioned Gitpod alternative
 - Explained node restart tips
+- Added system requirements
