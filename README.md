@@ -10,3 +10,4 @@
 - Explained node restart tips
 - Added system requirements
 - Checklist for testnet prep
+- GitHub commit log added
