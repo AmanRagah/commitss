@@ -11,3 +11,4 @@
 - Added system requirements
 - Checklist for testnet prep
 - GitHub commit log added
+- Shared learning resources
