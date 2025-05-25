@@ -12,3 +12,4 @@
 - Checklist for testnet prep
 - GitHub commit log added
 - Shared learning resources
+- Final clean-up and push
